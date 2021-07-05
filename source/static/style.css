@@ -1,0 +1,55 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    margin: 20px auto;
+    max-width: 1600px;
+    min-width: 720px;
+}
+
+
+aside {
+    width: 400px;
+    height: 100%;
+    float: left;
+}
+
+
+
+
+
+main {
+    margin-left: 400px;
+    padding: 0 20px;
+}
+
+textarea {
+    width: 100%;
+    padding: 5px;
+    border: 1px solid rgba(0, 0, 0, .125);
+}
+
+#similarity-score {
+    margin: 10px 0;
+    font-size: 2em;
+    text-align: center;
+}
+
+
+
+#languages-row {
+    padding: 10px;
+}
+
+.recently-used-box {
+}
+
+.recently-used-box-language {
+    font-weight: lighter;
+}
+
+.recently-used-box-title {
+    font-weight: bold;
+}
